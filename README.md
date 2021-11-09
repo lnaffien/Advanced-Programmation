@@ -1,2 +1,2 @@
 # Advanced-Programmation
-Exercices in C made at 5th semester of the the University of Paris 8
+This repertory contains all the exercices in C made at 5th semester of the University of Paris 8
